@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    font-family: Arial;
+    border: border-box;
+}
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 0px;
+}
+.heading{
+    color: blue;
+    background-color: orange;
+    height: 50px;
+    text-align: center;
+}
+.agecal{
+   
+   color: blueviolet;
+    margin-top: 100px;
+}
+
+
+input, button {
+    padding: 10px;
+    margin: 10px;
+}
+
+#ageOutput {
+    font-size: 18px;
+    margin-top: 20px;
+}
